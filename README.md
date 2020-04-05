@@ -1,10 +1,8 @@
-## Welcome to Nanda Pranav Page
+## Welcome to my Page
 
-You can use the [editor on GitHub](https://github.com/nandapranav/pranavnanda.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+Well, let me introduce my self. I am Pranav Nanda and I love sports and games
+By games, I mean video games and outdoor running games. 
+That's all about me!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
