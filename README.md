@@ -6,4 +6,3 @@ That's all about me!
 
  ![Image](images/pranavoctocat.png)
  This is me
-
